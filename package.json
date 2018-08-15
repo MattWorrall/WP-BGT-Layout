@@ -10,14 +10,21 @@
     "bgt"
   ],
   "author": "Matt Worrall",
+  "homepage": "https://github.com/MattWorrall/WP-BGT-Layout",
   "license": "UNLICENSED",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattWorrall/WP-BGT-Layout.git"
+  },
   "devDependencies": {
     "browser-sync": "^2.24.6",
     "gulp": "^4.0.0",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-hub": "^4.2.0",
     "gulp-sass": "^4.0.1",
-    "gulp-sourcemaps": "^2.6.4"
+    "gulp-sass-lint": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "sassdoc": "^2.5.0"
   }
 }
